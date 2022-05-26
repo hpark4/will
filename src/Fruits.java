@@ -11,6 +11,7 @@
  *
  * it will be sweet and delicious.
  */
-public class Fruits {
+public class Fruits
+{
 
 }

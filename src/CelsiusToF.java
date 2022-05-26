@@ -21,6 +21,7 @@
  * Enter a temperature in Celsius: 12.345
  * 12.3 C = 54.2 F
  */
-public class CelsiusToF{
+public class CelsiusToF
+{
 
 }
